@@ -1,0 +1,6 @@
+ahmad,3
+hashim,1
+Falah,2
+Ali,4
+Hira,5
+Hamza,6
